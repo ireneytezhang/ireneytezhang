@@ -1,0 +1,19 @@
+{
+      'YearMonth': {'type': 'integer'}, 
+      'Quarter': {'type': 'string'},
+      'HOTDNumber': {'type': 'integer'},
+      'TDIATA': {'type': 'integer'},
+      'PlanCode': {'type': 'string'},
+      'RevTypeCode': {'type': 'string'},
+      'RevEligibilityCode': {'type': 'string'},
+      'ProductTypeCode': {'type': 'string'},
+      'TktSrvcDesc': {'type': 'string'},
+      'OperatingCarrierCode': {'type': 'string'},
+      'PlatedCarrierAlliance': {'type': 'string'},
+      'MktdCarrierAlliance': {'type': 'string'},
+      'BookingClass': {'type': 'string'},
+      'GrossRev': {'type': 'float'},
+      'CpnCount': {'type': 'float'},
+      'NetRev': {'type': 'float'},
+      'YQAmount': {'type': 'float'}
+      }
